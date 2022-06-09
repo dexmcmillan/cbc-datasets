@@ -1,4 +1,4 @@
-# Datasets in Canada
+# Interesting datasets in Canada
  A collection of solid datasets to use for graphics or anything else.
  
 <hr>
@@ -25,3 +25,11 @@ Lots of data here showing the historical path of hurricanes and their probable p
 
 ### Labour force survey
 - **[Data table](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028701)**
+
+<hr>
+
+## OTHER
+
+### StatsCan Road Network Files
+Names and lines for all roads in Canada. Updates released every year, but mostly updated on time with the census.
+- [Data table](https://www150.statcan.gc.ca/n1/en/catalogue/92-500-X)
