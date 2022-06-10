@@ -1,6 +1,8 @@
 # Interesting datasets in Canada
  A collection of solid datasets to use for graphics or anything else.
  
+ ✍️Want to contribute? Read [this](https://github.com/dexmcmillan/cbc-datasets/edit/main/CONTRIBUTING.md) for more information before submitting.
+ 
 <hr>
 
 ## WILDFIRES
