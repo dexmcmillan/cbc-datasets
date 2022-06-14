@@ -5,7 +5,7 @@
  
 <hr>
 
-## WILDFIRES
+## 🔥WILDFIRES
 
 ### Natural Resources Canada wildfire data
 Data on hotspots, active wildfires, and wildfire progression polygons.
@@ -23,7 +23,7 @@ Lots of data here showing the historical path of hurricanes and their probable p
 
 <hr>
 
-## LABOUR AND DEMOGRAPHICS
+## ⚒️LABOUR AND DEMOGRAPHICS
 
 ### 2021 Census
 - **[Comprehensive download files](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page_Download-Telecharger.cfm?Lang=E&Tab=1&Geo1=CD&Code1=5953&Geo2=PR&Code2=01&SearchText=&SearchType=Begins&SearchPR=01&B1=All&TABID=1&type=0)**
@@ -33,7 +33,7 @@ Lots of data here showing the historical path of hurricanes and their probable p
 
 <hr>
 
-## OTHER
+## ❓OTHER
 
 ### StatsCan Road Network Files
 Names and lines for all roads in Canada. Updates released every year, but mostly updated on time with the census.
