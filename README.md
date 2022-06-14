@@ -13,6 +13,7 @@ Data on hotspots, active wildfires, and wildfire progression polygons.
 From NRCAN: "A hotspot is a satellite image pixel with high infrared intensity, indicating a heat source. Hotspots from known industrial sources are removed; the remaining hotspots represent vegetation fires, which can be in forest, grass, cropland, or logging debris. A hotspot may represent one fire or be one of several hotspots representing a larger fire. Not all fires can be identified from satellite imagery, either because the fires are too small or because cloud cover obscures the satellite's view of the ground."
 - **[All wildfire data](https://cwfis.cfs.nrcan.gc.ca/downloads/)**
 - **[Active wildfires](https://cwfis.cfs.nrcan.gc.ca/downloads/activefires)**
+- **[Active wildfires (time series)](https://github.com/dexmcmillan/cbc-wildfiredata)** - Data collected using a scraper by me every 2 hours.
 - **[Hotspots (perimeters)](https://cwfis.cfs.nrcan.gc.ca/downloads/hotspots/)**
 - **[Hotspots (points)](https://cwfis.cfs.nrcan.gc.ca/downloads/hotspots/)**
 
