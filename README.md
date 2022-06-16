@@ -19,7 +19,7 @@ From NRCAN: "A hotspot is a satellite image pixel with high infrared intensity, 
 
 ### NOAA hurricane data
 Lots of data here showing the historical path of hurricanes and their probable paths. The data disappears when the hurricane is gone, so be aware of that. The data can be accessed through XML when there is a warning up on the link below.
-- **[Graphics]([https://www.nhc.noaa.gov/?cpac](https://www.nhc.noaa.gov/storm_graphics/))**
+- **[Graphics](https://www.nhc.noaa.gov/storm_graphics/)**
 - **[GIS Data](https://www.nhc.noaa.gov/gis/)**
 
 <hr>
