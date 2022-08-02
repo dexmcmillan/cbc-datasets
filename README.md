@@ -1,5 +1,5 @@
 # Datasets in Canada
- A collection of solid datasets to use for graphics or anything else.
+A collection of solid datasets to use for graphics or anything else.
 
 Wildfire data
 * Natural Resources Canada (NRCAN)
@@ -9,6 +9,10 @@ Wildfire data
     * [Hotspots](https://cwfis.cfs.nrcan.gc.ca/downloads/hotspots/)
 
         From NRCAN: "A hotspot is a satellite image pixel with high infrared intensity, indicating a heat source. Hotspots from known industrial sources are removed; the remaining hotspots represent vegetation fires, which can be in forest, grass, cropland, or logging debris. A hotspot may represent one fire or be one of several hotspots representing a larger fire. Not all fires can be identified from satellite imagery, either because the fires are too small or because cloud cover obscures the satellite's view of the ground."
+
+* BC Wildfire Centre
+    * [ArcGIS servers](https://services6.arcgis.com/ubm4tcTYICKBpist/arcgis/rest/services/)
+        A wealth of different ArcGis map servers to do with weather, wildfires, and other interesting stuff.
 
 
 Labour and demographics
