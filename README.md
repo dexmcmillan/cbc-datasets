@@ -5,7 +5,7 @@
  
 <hr>
 
-## 🔥WILDFIRES
+## 🔥WEATHER
 
 ### Natural Resources Canada wildfire data
 Data on hotspots, active wildfires, and wildfire progression polygons.
@@ -29,6 +29,11 @@ Lots of data here showing the historical path of hurricanes and their probable p
 
 ### Labour force survey
 - **[Data table](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028701)**
+
+## Toronto
+
+### ArcGIS Data
+- **[Servers](https://services3.arcgis.com/b9WvedVPoizGfvfD/ArcGIS/rest/services)** A huge selection of various mapping data in this ESRI Rest server maintained by the city. Vision Zero data, locations of various amenities around the city.
 
 <hr>
 
